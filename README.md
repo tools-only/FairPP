@@ -15,6 +15,7 @@ code for data generation: 1_data_generation.ipynb
 code for personalized preference collection: 2_personalized_preference.ipynb  
 code for sample reweighting and analysis: 3_analysis_and_reweighting.ipynb  
 code for calculate JS distance: 4_metrics.ipynb  
+code for mainstream LLMs testing: llm_inference.py
 
 Reproducing the data generation process, please make use of 1 (questions) and 2 (answers).  
 If you want to obtain your own personalized preference data, you can add more persona in 2_personalized_preference.ipynb  
