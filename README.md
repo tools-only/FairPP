@@ -1,5 +1,5 @@
 # Fair-PP  
-Code for submission "Fair-PP: A Synthetic Dataset for Aligning LLM with Personalized Preferences of Social Equity"  
+Code for Neurips 2025 Datasets and Benchmarks Track submission: "Fair-PP: A Synthetic Dataset for Aligning LLM with Personalized Preferences of Social Equity"  
 You can find our data here: [Fair-PP datasets](https://huggingface.co/collections/tools-o/fair-pp-6826f1f80edc145806b29a13)  
 
 Models used in our paper:  
@@ -28,3 +28,6 @@ dataset = load_dataset("tools-o/Fair-PP")
 df = dataset["test"].to_pandas()
 ```
 then, run code in 4_metrics.ipynb to Reproduce the experimental results of our paper.
+
+### Term of use
+The datasets and associated code are released under the CC-BY-NC-SA 4.0 license and may only be used for non-commercial, academic research purposes with proper attribution.
