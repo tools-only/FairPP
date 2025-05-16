@@ -2,7 +2,7 @@
 Code for submission "Fair-PP: A Synthetic Dataset for Aligning LLM with Personalized Preferences of Social Equity"  
 You can find our data here: [Fair-PP datasets](https://huggingface.co/collections/tools-o/fair-pp-6826f1f80edc145806b29a13)  
 
-models used in our paper:  
+Models used in our paper:  
 [Falcon3-7B-Instruct](https://huggingface.co/tiiuae/Falcon3-7B-Instruct)  
 [Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)  
 [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)  
