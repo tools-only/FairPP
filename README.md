@@ -1,5 +1,5 @@
 # Fair-PP  
-Code for Neurips 2025 Datasets and Benchmarks Track submission: "Fair-PP: A Synthetic Dataset for Aligning LLM with Personalized Preferences of Social Equity"  
+Code for Neurips 2025 Datasets and Benchmarks Track submission: "[Fair-PP: A Synthetic Dataset for Aligning LLM with Personalized Preferences of Social Equity](https://arxiv.org/pdf/2505.11861)"  
 You can find our data here: [Fair-PP datasets](https://huggingface.co/collections/tools-o/fair-pp-6826f1f80edc145806b29a13)  
 
 Models used in our paper:  
